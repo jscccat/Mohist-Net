@@ -26,7 +26,7 @@
 
 ## 🐙 How to Board the Ship?
 
-1. **Follow the Captain's Signal:** The spiritual coordinates of this project are permanently anchored on the Nostr protocol. Follow the Genesis Captain **Fat Cat (肥猫)** via his public key:
+1. **Follow the Captain's Signal:** The spiritual coordinates of this project are permanently anchored on the Nostr protocol. Follow the Genesis Captain **Demon Cat (魔猫)** via his public key:
    `npub1ncpszxy9w2ckycysrxpgcpuumchmzn67dcmcps4fnf4t8cq3zgfq7jsezf`
 2. **Submit PR / Open Issues:** We are currently calling for elite hackers proficient in the **Nostr Protocol, IPFS/Arweave Storage, and Web3 Frontend Architecture**.
 
